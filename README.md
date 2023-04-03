@@ -2,6 +2,7 @@
 ## Name   : S.Sham Rathan 
 ## Reg.no : 212221230093
 ### 1. 1.Using inheritance, one class can acquire the properties of others. Consider the following
+```
 Animal class:
 class Animal{
  void walk(){
@@ -34,4 +35,3 @@ I am walking
 I am flying I am singing
 ```
 
-```
